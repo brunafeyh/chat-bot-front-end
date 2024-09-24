@@ -31,5 +31,5 @@ O `ChatBot` é um componente de chat inteligente desenvolvido em React que permi
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone [https://github.com/brunafeyh/chat-bot-front-end)]
+   cd sua-pasta
